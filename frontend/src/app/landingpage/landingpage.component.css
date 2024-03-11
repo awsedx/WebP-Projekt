@@ -1,0 +1,24 @@
+
+.mainContent {
+    display: flex;
+    flex-direction: row;
+}
+.imagesDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: top;
+    margin-left: 1rem;
+}
+.imgDiv {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.imgDiv > p {
+    margin-top: 0;
+    color: rgb(104, 104, 104);
+    font-size: smaller;
+}

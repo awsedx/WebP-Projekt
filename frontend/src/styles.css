@@ -1,4 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
 
 html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body { margin: 0; font-family: "Univia W03 Regular",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif; }
+h1, h2, h3, h4, h5 {
+    color: blue;
+    margin: 0.5rem;
+}
+p {
+    font-size: larger;
+    color: rgb(41, 41, 41);
+    margin: 0rem;
+}
+a {
+    font-size: larger;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    margin-top: 1rem;
+}
+.listLink {
+    color: rgb(41, 41, 41);
+    text-decoration: none;
+    font-weight: 600;
+}
+.listLink:hover {
+    color: blue;
+    text-decoration: underline;
+}
+.listLink:active {
+    color: dodgerblue;
+    text-decoration: underline;
+}
