@@ -4,7 +4,8 @@ html, body { height: 100%; }
 body { margin: 0; font-family: "Univia W03 Regular",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif; }
 h1, h2, h3, h4, h5 {
     color: blue;
-    margin: 0.5rem;
+    margin: 0.5em;
+    margin-bottom: 0.0em;
 }
 p {
     font-size: larger;
