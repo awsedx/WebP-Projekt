@@ -1,0 +1,1 @@
+Dat janze innen Docker container packen weil der dude "hat kein bock sich irgedwas zu installieren"
